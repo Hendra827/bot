@@ -1,6 +1,6 @@
 module.exports = {
   adminId: "UserId", // Admin of the bot
-  token: process.env.token || "OTUwMTQ1NjI0MTQ0MjQwNzAw.GoA4pf.AEbbZ5p3S7yu0eieUSdAE1vLdIG6EKaR8tjhP4", //Bot's Token
+  token: process.env.token || "", //Bot's Token
   clientId: process.env.clientId || "950145624144240700", //ID of the bot
   clientSecret: process.env.clientSecret || "CQRKnPOAzkWNSudGw6J8ivm9WvT5xn33", //Client Secret of the bot
   port: 4200, //Port of the API and Dashboard
